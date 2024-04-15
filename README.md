@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10975164.svg)](https://doi.org/10.5281/zenodo.10975164)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10975163.svg)](https://doi.org/10.5281/zenodo.10975163)
 
 # Pair approximation for 2x2 symmetric games on regular networks
 
@@ -8,6 +8,6 @@ To run this notebook, you may use the free [Wolfram Player](https://www.wolfram.
 
 If you use this notebook in a publication, we would appreciate it if you could cite it as:
 
-Izquierdo, L.R., Izquierdo, S.S. & Hauert, C. (2024). Pair approximation for 2x2 symmetric games on regular networks. Software. DOI: [10.5281/zenodo.10975164](https://doi.org/10.5281/zenodo.10975164). 
+Izquierdo, L.R., Izquierdo, S.S. & Hauert, C. (2024). Pair approximation for 2x2 symmetric games on regular networks. Software. DOI: [10.5281/zenodo.10975163](https://doi.org/10.5281/zenodo.10975163). 
 
 [Luis R. Izquierdo](http://luis.izqui.org), [Segismundo S. Izquierdo](http://segis.izqui.org) & [Christoph Hauert](https://personal.math.ubc.ca/~hauert/)
