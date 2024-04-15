@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[    255227,       5342]
-NotebookOptionsPosition[    253953,       5312]
-NotebookOutlinePosition[    254692,       5336]
-CellTagsIndexPosition[    254649,       5333]
+NotebookDataLength[    255437,       5346]
+NotebookOptionsPosition[    254163,       5316]
+NotebookOutlinePosition[    254902,       5340]
+CellTagsIndexPosition[    254859,       5337]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2350,17 +2350,21 @@ dilemma vs. snowdrift games. ", "Item"],
 06.042", "Item"]
 }], "Item",ExpressionUUID->"c3352103-912e-4d0d-a932-79dfb6d96bba"],
 
-Cell["\<\
-Please, note that the menu \[OpenCurlyDoubleQuote]Presets for replication\
+Cell[TextData[{
+ "Please, note that the menu \[OpenCurlyDoubleQuote]Presets for replication\
 \[CloseCurlyDoubleQuote] only works for versions 13.3 or higher of \
 Mathematica and Wolfram Player. You can download the Wolfram Player for free \
-at https://www.wolfram.com/player/.
-
-If you find this notebook useful, we would appreciate it if you cited it as \
-follows: \[LineSeparator]Izquierdo, Luis R., Izquierdo, Segismundo S. & \
-Hauert, Christoph (2024). Pair approximation for 2x2 symmetric games on \
-regular networks. Software. DOI: . \
-\>", "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
+at https://www.wolfram.com/player/.\n\nIf you find this notebook useful, we \
+would appreciate it if you cited it as follows: \[LineSeparator]Izquierdo, \
+Luis R.; Izquierdo, Segismundo S.; Hauert, Christoph (2024). Pair \
+approximation for 2x2 symmetric games on regular networks. Software. DOI: ",
+ ButtonBox["10.5281/zenodo.10975164",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://doi.org/10.5281/zenodo.10975164"], None},
+  ButtonNote->"https://doi.org/10.5281/zenodo.10975164"],
+ ". "
+}], "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
 
 Cell[CellGroupData[{
 
@@ -5312,8 +5316,8 @@ FontWeight->\"Plain\"]\)\!\(\*StyleBox[\")\",FontWeight->\"Plain\"]\)\>\""}],
 },
 ScreenStyleEnvironment->"Working",
 CellGrouping->Manual,
-WindowSize->{1352, 743},
-WindowMargins->{{0, Automatic}, {Automatic, 7}},
+WindowSize->{1352, 757},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 TrackCellChangeTimes->False,
 SpellingDictionaries->{"CorrectWords"->{
  "assortatively", "monomorphic", "Izquierdo", "Christoph", "Hauert", 
@@ -5345,14 +5349,14 @@ Cell[122056, 2320, 169, 3, 38, "Text",ExpressionUUID->"021aea6b-5e2b-4058-85f8-5
 Cell[122228, 2325, 359, 6, 60, "Item",ExpressionUUID->"cff5d4dc-3f61-4bdd-8771-9f7b6b96d81f"],
 Cell[122590, 2333, 324, 6, 38, "Item",ExpressionUUID->"2ca8f976-df16-491d-9adf-ee3a9cf8a092"],
 Cell[122917, 2341, 459, 9, 60, "Item",ExpressionUUID->"c3352103-912e-4d0d-a932-79dfb6d96bba"],
-Cell[123379, 2352, 600, 10, 157, "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
+Cell[123379, 2352, 810, 14, 157, "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
 Cell[CellGroupData[{
-Cell[124004, 2366, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[124095, 2368, 2256, 48, 703, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[124214, 2370, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[124305, 2372, 2256, 48, 703, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[126388, 2421, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[126476, 2423, 127461, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[126598, 2425, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[126686, 2427, 127461, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }
 ]
