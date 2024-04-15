@@ -2358,11 +2358,11 @@ at https://www.wolfram.com/player/.\n\nIf you find this notebook useful, we \
 would appreciate it if you cited it as follows: \[LineSeparator]Izquierdo, \
 Luis R.; Izquierdo, Segismundo S.; Hauert, Christoph (2024). Pair \
 approximation for 2x2 symmetric games on regular networks. Software. DOI: ",
- ButtonBox["10.5281/zenodo.10975164",
+ ButtonBox["10.5281/zenodo.10975163",
   BaseStyle->"Hyperlink",
   ButtonData->{
-    URL["https://doi.org/10.5281/zenodo.10975164"], None},
-  ButtonNote->"https://doi.org/10.5281/zenodo.10975164"],
+    URL["https://doi.org/10.5281/zenodo.10975163"], None},
+  ButtonNote->"https://doi.org/10.5281/zenodo.10975163"],
  ". "
 }], "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
 
