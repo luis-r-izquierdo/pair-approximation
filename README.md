@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10975164.svg)](https://doi.org/10.5281/zenodo.10975164)
+
 # Pair approximation for 2x2 symmetric games on regular networks
 
 This is a Mathematica notebook created to solve the pair approximation for 2x2 symmetric games on regular networks. This is a system of differential equations explained in detail in [section 2.4](https://wisc.pb.unizin.org/agent-based-evolutionary-game-dynamics/chapter/2-4/) of the free online book [Agent-based Evolutionary Game Dynamics](https://wisc.pb.unizin.org/agent-based-evolutionary-game-dynamics/).
