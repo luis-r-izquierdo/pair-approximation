@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[    255437,       5346]
-NotebookOptionsPosition[    254163,       5316]
-NotebookOutlinePosition[    254902,       5340]
-CellTagsIndexPosition[    254859,       5337]
+NotebookDataLength[    255582,       5348]
+NotebookOptionsPosition[    254308,       5318]
+NotebookOutlinePosition[    255047,       5342]
+CellTagsIndexPosition[    255004,       5339]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2406,13 +2406,15 @@ the GNU General Public License \nat ",
   ButtonData->{
     URL["https://www.gnu.org/licenses/gpl.html"], None},
   ButtonNote->"https://www.gnu.org/licenses/gpl.html"],
- ".\n\nWe gratefully acknowledge financial support from \nthe Spanish State \
-Research Agency \n(PID2020-118906GB-I00/AEI/10.13039/501100011033), \nfrom \
-the Regional Government of Castilla y Le\[OAcute]n and the EU-FEDER program \n\
-(CLU-2019-04 \[Dash] BIOECOUVA Unit of Excellence of the University of \
-Valladolid), \nand from the Spanish Ministry of Universities (PRX22/00064 and \
-PRX22/00065). \n\nContact information: \nLuis R. Izquierdo \nUniversity of \
-Burgos, Spain. \nwebsite: ",
+ ".\n\nL.R.I. and S.S.I. gratefully acknowledge financial support \nfrom the \
+Spanish State Research Agency \n\
+(PID2020-118906GB-I00/AEI/10.13039/501100011033), \nfrom the Regional \
+Government of Castilla y Le\[OAcute]n and the EU-FEDER program \n(CLU-2019-04 \
+- BIOECOUVA Unit of Excellence of the University of Valladolid), and \nfrom \
+the Spanish Ministry of Universities (PRX22/00064 and PRX22/00065). \nC.H. \
+acknowledges financial support \nfrom Natural Sciences and Engineering \
+Research Council of Canada \n(NSERC) RGPIN-2021-02608.\n\nContact \
+information: \nLuis R. Izquierdo \nUniversity of Burgos, Spain. \nwebsite: ",
  ButtonBox["http://www.luis.izqui.org",
   BaseStyle->"Hyperlink",
   ButtonData->{
@@ -5352,11 +5354,11 @@ Cell[122917, 2341, 459, 9, 60, "Item",ExpressionUUID->"c3352103-912e-4d0d-a932-7
 Cell[123379, 2352, 810, 14, 157, "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
 Cell[CellGroupData[{
 Cell[124214, 2370, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[124305, 2372, 2256, 48, 703, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[124305, 2372, 2401, 50, 775, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[126598, 2425, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[126686, 2427, 127461, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[126743, 2427, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[126831, 2429, 127461, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }
 ]
