@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[    256126,       5363]
-NotebookOptionsPosition[    254846,       5333]
-NotebookOutlinePosition[    255591,       5357]
-CellTagsIndexPosition[    255548,       5354]
+NotebookDataLength[    256114,       5362]
+NotebookOptionsPosition[    254834,       5332]
+NotebookOutlinePosition[    255579,       5356]
+CellTagsIndexPosition[    255536,       5353]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -58,7 +58,7 @@ Cell[TextData[{
 
 Cell[TextData[{
  "This is a notebook created to solve the system of differential equations of \
-the pair approximation explained in section 2.4 of the book ",
+the pair approximation explained in chapter III.5 of the book ",
  ButtonBox["Agent-based Evolutionary Game Dynamics",
   BaseStyle->"Hyperlink",
   ButtonData->{
@@ -420,13 +420,13 @@ $CellContext`qAA$[$CellContext`t$]};
 $CellContext`qAB$] $CellContext`FB[$CellContext`kA, $CellContext`k$$, \
 $CellContext`maxDiff$, $CellContext`mR$, $CellContext`payoffs$, \
 $CellContext`qAA$, $CellContext`qAB$] (
-              2 $CellContext`kA/$CellContext`k$$), {$CellContext`kA, 
+              2 ($CellContext`kA/$CellContext`k$$)), {$CellContext`kA, 
               0, $CellContext`k$$}] - $CellContext`\[Rho]A$ 
           Sum[$CellContext`PA[$CellContext`kA, $CellContext`k$$, \
 $CellContext`qAA$] $CellContext`FA[$CellContext`kA, $CellContext`k$$, \
 $CellContext`maxDiff$, $CellContext`mR$, $CellContext`payoffs$, \
 $CellContext`qAA$, $CellContext`qAB$] (
-             2 $CellContext`kA/$CellContext`k$$), {$CellContext`kA, 
+             2 ($CellContext`kA/$CellContext`k$$)), {$CellContext`kA, 
              0, $CellContext`k$$}]; $CellContext`pairApproximationSolution = 
          Block[{$MaxExtraPrecision = 1000}, 
            TimeConstrained[
@@ -449,7 +449,6 @@ $CellContext`qAA$, $CellContext`qAB$], {$CellContext`kA,
                 Derivative[1][$CellContext`qAA$][$CellContext`t$] == 
                 ReplaceAll[
                  Derivative[
-                    
                     1][$CellContext`xAA$]/$CellContext`\[Rho]A$ - \
 ($CellContext`xAA$/$CellContext`\[Rho]A$^2) 
                   Derivative[
@@ -640,9 +639,9 @@ CellContext`actualFinalTime]]], $CellContext`limitingxMD$], 10^(-5)], 3]}],
              If[$CellContext`errorPA$, 
               Style["Please, try changing the initial conditions", Black, 10], 
               If[$CellContext`tooLong$, 
-               Style[
-               "takes longer than maxTimeOut = " <> 
-                ToString[$CellContext`maxTimeOut$$] <> "s.", Red, 12], 
+               
+               Style[("takes longer than maxTimeOut = " <> 
+                 ToString[$CellContext`maxTimeOut$$]) <> "s.", Red, 12], 
                Style[
                 
                 Row[{"\!\(\*SubscriptBox[StyleBox[\"q\",FontSlant->\"Italic\"]\
@@ -5359,21 +5358,21 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[1257, 32, 142, 2, 76, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
 Cell[1402, 36, 630, 20, 49, "Subtitle",ExpressionUUID->"c414d9db-7737-4bde-8abd-eaa0928aedb2"],
-Cell[2035, 58, 505, 11, 62, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
+Cell[2035, 58, 507, 11, 62, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
 }, Open  ]],
-Cell[2555, 72, 120007, 2261, 646, "Output",ExpressionUUID->"eb228b8c-d3f4-4a2e-a9f3-44ea342a8ad1"],
-Cell[122565, 2335, 169, 3, 38, "Text",ExpressionUUID->"021aea6b-5e2b-4058-85f8-5552c48ddfc5"],
-Cell[122737, 2340, 359, 6, 60, "Item",ExpressionUUID->"cff5d4dc-3f61-4bdd-8771-9f7b6b96d81f"],
-Cell[123099, 2348, 324, 6, 38, "Item",ExpressionUUID->"2ca8f976-df16-491d-9adf-ee3a9cf8a092"],
-Cell[123426, 2356, 459, 9, 60, "Item",ExpressionUUID->"c3352103-912e-4d0d-a932-79dfb6d96bba"],
-Cell[123888, 2367, 810, 14, 157, "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
+Cell[2557, 72, 119993, 2260, 646, "Output",ExpressionUUID->"eb228b8c-d3f4-4a2e-a9f3-44ea342a8ad1"],
+Cell[122553, 2334, 169, 3, 38, "Text",ExpressionUUID->"021aea6b-5e2b-4058-85f8-5552c48ddfc5"],
+Cell[122725, 2339, 359, 6, 60, "Item",ExpressionUUID->"cff5d4dc-3f61-4bdd-8771-9f7b6b96d81f"],
+Cell[123087, 2347, 324, 6, 38, "Item",ExpressionUUID->"2ca8f976-df16-491d-9adf-ee3a9cf8a092"],
+Cell[123414, 2355, 459, 9, 60, "Item",ExpressionUUID->"c3352103-912e-4d0d-a932-79dfb6d96bba"],
+Cell[123876, 2366, 810, 14, 157, "Text",ExpressionUUID->"6ceadfdc-305c-40ae-91bb-bfcef2ce55de"],
 Cell[CellGroupData[{
-Cell[124723, 2385, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[124814, 2387, 2401, 50, 775, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[124711, 2384, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[124802, 2386, 2401, 50, 775, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[127252, 2442, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[127340, 2444, 127490, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[127240, 2441, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[127328, 2443, 127490, 2886, 19121, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }
 ]
